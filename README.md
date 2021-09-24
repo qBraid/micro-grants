@@ -41,7 +41,7 @@ or anything related to quantum computing that we didn't cover in the list above.
 - The participants must be US or Canadian citizens (We are exploring how this could relaxed, stay tuned!).
 
 # Finding people to join your team:
-You can apply for the micro-grants alone or with a team. If you'd like to find team members to join your team, please feel free to open a new issue on this repository with the title of your project and a little summary, so people can comment/join your team. Please be careful with how much you share.
+You can apply for the micro-grants alone or with a team. If you'd like to find team members to join your team, please make sure to tag it with the label `looking for teammates` feel free to open a new issue on this repository with the title of your project and a little summary, so people can comment/join your team.  Please be respectful when you are sharing info about your project, we want everyone in our community to feel safe and respected!
 
 # Submitting your project
 You can submit your project using the following link:
