@@ -37,7 +37,7 @@ or anything related to quantum computing that we didn't cover in the list above.
 
 # Rules and guidelines for projects and content:
 - The project and quantum content should be an original creation. 
-- For technical projects you are free to use any quantum-SDK of your choice, but we encourage you to use the (qBraid platform)[https://qbraid.com/], primarily, for your development. The qBraid-team will be happy to answer any questions you may have regardin the platform. 
+- For technical projects you are free to use any quantum-SDK of your choice, but we encourage you to use the [qBraid platform](https://qbraid.com/), primarily, for your development. The qBraid-team will be happy to answer any questions you may have regardin the platform. 
 - The participants must be US or Canadian citizens (We are exploring how this could relaxed, stay tuned!).
 
 # Finding people to join your team:
